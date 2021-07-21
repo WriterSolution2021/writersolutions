@@ -1,0 +1,8 @@
+[build]
+  publish = "public"
+  command = "hugo"
+  
+[build.environment]
+  HUGO_VERSION = "0.76.5"
+  HUGO_THEME = "biztrox-hugo"
+  HUGO_BASEURL = "/"
