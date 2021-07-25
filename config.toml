@@ -1,6 +1,6 @@
 ######################### default configuration ###############################
 baseURL = "http://examplesite.com"
-title = "Writer Solutions"
+title = "Writer Publishing Solutions"
 theme = "biztrox-hugo"
 # post pagination
 paginate = "6"
@@ -212,7 +212,7 @@ link = "#"
   subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 
   # copyright
-  copyright = "Copyright &copy; 2021 | Writer Solutions | All Rights Reserved."
+  copyright = "Copyright &copy; 2021 | Writer Publishing Solutions | All Rights Reserved."
 
 
 

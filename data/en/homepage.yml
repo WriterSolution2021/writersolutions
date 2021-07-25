@@ -166,7 +166,7 @@ testimonial:
 cta:
   enable : true
   bg_image : "images/background/cta.jpg"
-  title : "Writer Solutions gives the smart solution for your publishing success."
+  title : "Writer Publishing Solutions gives the smart solution for your publishing success."
   button:
     enable : true
     label : "get a quote"
