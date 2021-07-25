@@ -63,14 +63,9 @@ disableLanguages = ["fr"] # desable language from here
   weight = 3
   
   [[menu.main]]
-  name = "Testimonials"
-  URL = "testimonials"
-  weight = 4
-
-  [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 4
 
   # footer menu
   [[menu.footer]]
@@ -96,8 +91,8 @@ disableLanguages = ["fr"] # desable language from here
 
 ########################### default parameters #################################
 [params]
-logo = "images/logo.png"
-logo_white = "images/logo-footer.png"
+logo = "images/logo2.png"
+logo_white = "images/logo-footer2.png"
 mail = "info@companyname.com"
 mobile = "1234565523"
 # Meta data
