@@ -13,7 +13,7 @@ slider:
       button:
         enable : true
         label: More details
-        link : "about"
+        link : "packages"
         
     # slider item loop
     - bg_image : images/banner/banner-2.jpg
@@ -52,13 +52,17 @@ slider:
       button:
         enable : true
         label: More details
-        link : "about"
+        link : "services"
+
+########################################## Packages ####################################
+packages:
+  enable : true
+  # handcoded
 
 ########################################## Service ####################################
 service:
   enable : true
   # service item comes from "content/service" folder
-
 
 ######################################## About #########################################
 about:
@@ -81,7 +85,7 @@ about:
 
 ##################################### Skill ##############################################
 skill:
-  enable : true
+  enable : false
   subtitle : Our Skills
   title : Why Choose Us
   content:  We are focused on providing you the topnotch results in everything we do. We exist to help you become published successful authors by offering 100% net royalties as our commitment to truly helping you succeed in the industry. On top of that, our well diverse and high caliber team is available almost 24/7 to provide you the support and proper guidance whenever you need them.
@@ -115,7 +119,7 @@ skill:
       
 ########################################## project ####################################
 project:
-  enable : true
+  enable : false
   # project item comes from "content/project" folder
 
 ########################################### Mission ###################################
@@ -145,7 +149,7 @@ promo_video:
 
 ##################################### call to action #################################
 testimonial:
-  enable : true
+  enable : false
   subtitle : Clients
   title : What client Say
   image : images/client.png
@@ -174,10 +178,10 @@ cta:
       
 ########################################## blog ####################################
 blog:
-  enable : true
+  enable : false
   # blog item comes from "content/blog" folder
   
 ################################ clints logo slider ################################
 clients_logo_slider:
-  enable : true
+  enable : false
   # clients logo comes from "config.toml" folder

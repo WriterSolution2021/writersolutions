@@ -1,0 +1,59 @@
+########################################### Pricing #########################################
+pricing_table : 
+  # pricing table loop
+  - title : Primary
+    icon : ti-gift # themify icon pack : https://themify.me/themify-icons
+    value : $1,499
+    unit : month
+    link : '/childrensbook/primary'
+    service_list: 
+      - Author Retains Copyright
+      - ISBN Assignment
+      - Book Cover Design
+      - Interior Book Layout
+      - Available via Ingram to 39,000 booksellers
+      - Sales via Amazon.com and Chapters.com
+      - Automatic Printing & Fulfilment
+      - Paperback Availability
+      - Multi-book Discount
+      
+  # pricing table loop
+  - title : Advanced
+    icon : ti-key # themify icon pack : https://themify.me/themify-icons
+    value : $4,999
+    unit : month
+    link : '/childrensbook/advanced'
+    service_list : 
+      - Author Retains Copyright
+      - ISBN Assignment
+      - Book Cover Design
+      - Interior Book Layout
+      - Available via Ingram to 39,000 booksellers
+      - Sales via Amazon.com and Chapters.com
+      - Automatic Printing & Fulfilment
+      - Paperback Availability
+      - Illustrations
+      - Multi-book Discount
+      
+  # pricing table loop
+  - title : Mastery
+    icon : ti-medall # themify icon pack : https://themify.me/themify-icons
+    value : $9,999
+    unit : month
+    link : '/childrensbook/mastery'
+    service_list : 
+      - Author Retains Copyright
+      - ISBN Assignment
+      - Book Cover Design
+      - Interior Book Layout
+      - Available via Ingram to 39,000 booksellers
+      - Sales via Amazon.com and Chapters.com
+      - Automatic Printing & Fulfilment
+      - Paperback Availability
+      - Illustrations
+      - Hard Cover Edition
+      - Book Marketing Consultation
+      - Editing
+      - Author Website
+      - Book Backgrounder
+      - Multi-book Discount

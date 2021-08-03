@@ -59,8 +59,26 @@ disableLanguages = ["fr"] # desable language from here
   
   [[menu.main]]
   name = "Packages"
-  URL = "pricing"
   weight = 3
+  hasChildren = true
+    
+    [[menu.main]]
+    name = "Black and White Publishing"
+    parent = "Packages"
+    weight = 1
+    url = "blackandwhite"
+
+    [[menu.main]]
+    name = "Full Color Publishing"
+    parent = "Packages"
+    weight = 2
+    url = "fullcolor"
+
+    [[menu.main]]
+    name = "Children's Book Plublishing"
+    parent = "Packages"
+    weight = 3
+    url = "childrensbook"
   
   [[menu.main]]
   name = "Contact"
@@ -144,7 +162,7 @@ icon = "ti-map-alt"
 
 ############################ google map #####################################
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"

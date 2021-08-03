@@ -1,0 +1,52 @@
+########################################### Pricing #########################################
+pricing_table : 
+  # pricing table loop
+  - title : Black and White Publishing Packages
+    icon : ti-gift # themify icon pack : https://themify.me/themify-icons
+    value : $1,499
+    unit : month
+    link : '/blackandwhite'
+    service_list: 
+      - Black and White Publishing
+      - ISBN Assignment
+      - Book Cover Design
+      - Interior Book Layout
+      - Available via Ingram to 39,000 booksellers
+      - Sales via Amazon.com and Chapters.com
+      - Automatic Printing & Fulfilment
+      - Paperback Availability
+      - Multi-book Discount
+      
+  # pricing table loop
+  - title : Full Color Publishing Packages
+    icon : ti-key # themify icon pack : https://themify.me/themify-icons
+    value : $1,499
+    unit : month
+    link : '/fullcolor'
+    service_list : 
+      - Full Color Publishing
+      - ISBN Assignment
+      - Book Cover Design
+      - Interior Book Layout
+      - Available via Ingram to 39,000 booksellers
+      - Sales via Amazon.com and Chapters.com
+      - Automatic Printing & Fulfilment
+      - Paperback Availability
+      - Multi-book Discount
+      
+  # pricing table loop
+  - title : Children's Book Publishing Packages
+    icon : ti-medall # themify icon pack : https://themify.me/themify-icons
+    value : $1,499
+    unit : month
+    link : '/childrensbook'
+    service_list : 
+      - Children's Book Publishing
+      - ISBN Assignment
+      - Book Cover Design
+      - Interior Book Layout
+      - Available via Ingram to 39,000 booksellers
+      - Sales via Amazon.com and Chapters.com
+      - Automatic Printing & Fulfilment
+      - Paperback Availability
+      - Multi-book Discount

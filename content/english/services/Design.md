@@ -18,4 +18,3 @@ Planning a design is part of planning a publication. Our professional designers 
 We always think about how your texts will be presented physically. We ensure that the layout of the cover and the inside of your book meet the rules and standards of all formatting requirements by various e-book and print-on-demand distribution channels.
 
 [Talk to us](/contact) about our publication design services.
-

@@ -7,7 +7,7 @@ bg_image: images/background/page-title.jpg
 icon: ti-bar-chart
 brochure: '#'
 type : service
-weight : 1
+weight : 4
 ---
 
 ### Do you really want to stand out from others?
@@ -19,7 +19,6 @@ With our short film and post production services, you will have more visibility 
 #### Starting at $2499
 
 1. Book Ad's Film Services
-
 2. 360 Virtual Tour
 3. 3D Multimedia Flythrough
 4. 4D Animated Cinematography
@@ -31,8 +30,3 @@ With our short film and post production services, you will have more visibility 
 10. Textual Motion Trailers
 
 #### [START NOW](/contact)
-
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |

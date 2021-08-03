@@ -21,4 +21,3 @@ Artwork includes drawings, graphs, and maps. It can be printed in black and whit
 Our creative editors will help you make your point clear by using a visual imagery so you can depict, explain, and/or decorate the words in your manuscript. They do not stop with the illustrations that come with your manuscript. They listen to your vision and ask themselves whether more are needed or desirable to tell a great story.
 
 Editing illustrations needs a sympathetic, trained, and alert eye, just like editing words. We’re here to help you – we’re here to make your illustrations stand out!
-
