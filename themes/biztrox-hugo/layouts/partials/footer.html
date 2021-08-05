@@ -94,7 +94,7 @@
 {{"<!-- Essential Scripts -->" | safeHTML}}
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
-<script src="{{ .URL | absURL }}"> defer</script>
+<script src="{{ .URL | absURL }}" defer></script>
 {{ end }}
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
