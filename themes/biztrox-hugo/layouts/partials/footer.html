@@ -92,10 +92,6 @@
 {{ "<!-- /footer -->" | safeHTML }}
 
 {{"<!-- Essential Scripts -->" | safeHTML}}
-{{"<!-- Google Map API -->" | safeHTML}}
-{{ if .Site.Params.gmap.enable }}
-<script type="text/javascript" src="{{ .Site.Params.gmap.gmap_api | absURL }}" defer></script>
-{{ end }}
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .URL | absURL }}"> defer</script>
