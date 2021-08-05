@@ -115,8 +115,8 @@ description = "Airspace Hugo theme"
 author = "themefisher"
 # contact form
 contact_form_action = "#"
-# Google Analitycs
-google_analitycs_id = "Your ID"
+# Google Tag Manager
+gtm_id = "GTM-T2N24ZC"
 
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
