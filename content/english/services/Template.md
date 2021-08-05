@@ -3,8 +3,8 @@ title: "Template"
 date: 2018-09-29T11:51:17+06:00
 description : "This is meta description"
 draft : true
-image: images/service/service-6.jpg
-bg_image: images/background/page-title.jpg
+image: images/service/service-6.webp
+bg_image: images/background/page-title.webp
 icon: ti-thought
 brochure: '#'
 regularDay: Sun-Tues

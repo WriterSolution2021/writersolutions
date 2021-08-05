@@ -3,7 +3,7 @@ slider:
   enable : true
   slider_Item:
     # slider item loop
-    - bg_image : images/banner/banner-1.jpg
+    - bg_image : images/banner/banner-1.webp
       animation_from : left
       subtitle : WE ARE HERE TO
       title : Publish Your Own Book
@@ -16,7 +16,7 @@ slider:
         link : "packages"
         
     # slider item loop
-    - bg_image : images/banner/banner-2.jpg
+    - bg_image : images/banner/banner-2.webp
       animation_from : up
       subtitle : WE ARE HERE TO
       title : Market Your Book
@@ -29,7 +29,7 @@ slider:
         link : "about"
         
     # slider item loop
-    - bg_image : images/banner/banner-3.jpg
+    - bg_image : images/banner/banner-3.webp
       animation_from : down
       subtitle : GET YOUR BEST ROYALTY DEAL
       title : 100% Net Royalties
@@ -42,7 +42,7 @@ slider:
         link : "about"
         
     # slider item loop
-    - bg_image : images/banner/banner-4.jpg
+    - bg_image : images/banner/banner-4.webp
       animation_from : right
       subtitle : WE ARE ALWAYS
       title : Focused On Providing You Results
@@ -67,7 +67,7 @@ service:
 ######################################## About #########################################
 about:
   enable : true
-  bg_image : "images/background/about-bg.jpg"
+  bg_image : "images/background/about-bg.webp"
   title : "Who We Are?"
   content : "We focus on results to delight our authors by continually striving to exceed their expectations in everything we do and by holding ourselves accountable at every step."
   # bullet point
@@ -143,7 +143,7 @@ mission:
 promo_video:
   enable : true
   title : "We Are Always Committed To Helping You <br> Succeed!"
-  bg_image : "images/background/promo-video.jpg"
+  bg_image : "images/background/promo-video.webp"
   video_URL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
   video_title : "Lorem ipsum dolor <br> sit amet con."
 
@@ -169,7 +169,7 @@ testimonial:
 ##################################### call to action #################################
 cta:
   enable : true
-  bg_image : "images/background/cta.jpg"
+  bg_image : "images/background/cta.webp"
   title : "Writer Publishing Solutions gives the smart solution for your publishing success."
   button:
     enable : true
