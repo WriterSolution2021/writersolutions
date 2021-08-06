@@ -4,12 +4,12 @@ philosophy:
   subtitle : Know About
   title : Our Philosophy
   content : Our authors are at the heart of every decision we make. We focus on results to delight our authors by continually striving to exceed their expectations in everything we do and by holding ourselves accountable at every step. We are transparent to our authors as we believe our success solely depends on our authors’ success. For that reason, we are also building a corporate culture that rewards innovation and creativity to all our employees to continually provide the best tools and services for our clients.
-  image : images/about/philosophy.jpg
+  image : images/background/about-bg.webp
 
 ###################################### ceo ########################################
 ceo:
   enable : true
-  bg_image : images/about/ceo.jpg
+  bg_image : images/about/ceo.webp
   title : 
   content : Writer Solution gives the smart solution for your publishing success.
   signature : images/about/ceo-signature.png
@@ -24,7 +24,7 @@ mission:
 ###################################### funfacts ####################################
 funfacts: 
   enable : true
-  bg_image : images/background/cta.jpg
+  bg_image : images/background/cta.webp
   counter:
     - title : Projects Done
       icon : ti-server # themify icon pack : https://themify.me/themify-icons
@@ -42,7 +42,10 @@ funfacts:
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
       count : 130
 
-########################################### skill ###################################
+###################################### philosophy ####################################
 skill:
   enable : true
-  # skill content comes from "data/*/homepage.yml" file
+  subtitle : Know About
+  title : Why Choose Us
+  content : We are focused on providing you the topnotch results in everything we do. We exist to help you become published successful authors by offering 100% net royalties as our commitment to truly helping you succeed in the industry. On top of that, our well diverse and high caliber team is available almost 24/7 to provide you the support and proper guidance whenever you need them.
+  image : images/banner/banner-4.webp

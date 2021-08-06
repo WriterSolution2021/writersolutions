@@ -3,7 +3,7 @@ title: "Professional"
 date: 2021-08-03T18:02
 description : "Writer Publishing Solutions Professional Black and White Publishing Package"
 image: images/service/service-5.jpg
-bg_image: images/background/page-title.jpg
+bg_image: images/background/page-title.webp
 icon: ti-server
 type : blackandwhite
 weight : 2

@@ -128,7 +128,7 @@ mission:
   subtitle : Our Goal
   title : Company Mission
   content : We are highly experienced publishing professionals who want to give authors not only an excellent experience with us but also to see results of their hard work. We are here to guide you every step of the way of your publishing journey.
-  image : images/chart.png
+  image : images/chart.webp
   accordion:
     - title : Our Company Mission
       description : Our company’s purpose is to provide publishing and marketing services to seasoned and aspiring authors at every step of the publishing process. We are committed to providing the best customer service possible to our clients in publishing, and providing the tools and services necessary for them to realize their publishing dreams.
@@ -143,8 +143,8 @@ mission:
 promo_video:
   enable : true
   title : "We Are Always Committed To Helping You <br> Succeed!"
-  bg_image : "images/background/promo-video.webp"
-  video_URL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  bg_image : "images/background/promo-video2.webp"
+  video_URL : 
   video_title : "Lorem ipsum dolor <br> sit amet con."
 
 ##################################### call to action #################################

@@ -2,7 +2,7 @@
 title: "Design"
 date: 2018-09-29T11:54:02+06:00
 description : "This is meta description"
-image: images/service/service-5.webp
+image: images/service/design.webp
 bg_image: images/background/page-title.webp
 icon: ti-server
 type : service
