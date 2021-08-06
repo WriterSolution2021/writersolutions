@@ -60,19 +60,19 @@ disableLanguages = ["fr"] # desable language from here
   hasChildren = true
     
     [[menu.main]]
-    name = "Black and White Publishing"
+    name = "Black and White"
     parent = "Packages"
     weight = 1
     url = "blackandwhite"
 
     [[menu.main]]
-    name = "Full Color Publishing"
+    name = "Full Color"
     parent = "Packages"
     weight = 2
     url = "fullcolor"
 
     [[menu.main]]
-    name = "Children's Book Plublishing"
+    name = "Children's Book"
     parent = "Packages"
     weight = 3
     url = "childrensbook"
@@ -212,7 +212,7 @@ link = "#"
 
   # footer
   [Languages.en.params.footer]
-  content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+  content = "The smart solution for your publishing success."
 
   # subscribe
   subscribe = "Subscribe Us"

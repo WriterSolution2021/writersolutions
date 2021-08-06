@@ -9,8 +9,6 @@ type : service
 weight : 2
 ---
 
-### Design
-
 Good design in print helps make your message clear and effective. It also saves your readers’ time and effort because the message is easy to read.
 
 Planning a design is part of planning a publication. Our professional designers and artists are familiar with the principles of publication design. They will work closely with you and our editors not only to create a book cover or design that would best represent the purpose of your book but also that stands out and readable for your readers.

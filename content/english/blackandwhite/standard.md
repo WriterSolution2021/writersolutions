@@ -10,9 +10,14 @@ weight : 1
 price: 1499
 ---
 
-### Standard
+# Standard
 
-#### $1,499
+This publishing package is bla bla bla bla 
+
+## $1,499
+
+This publishing package is bla bla bla bla:
+<br>
 
 1. Author Retains Copyright
 2. ISBN Assignment

@@ -73,11 +73,11 @@ about:
   # bullet point
   bullet_point:
     - "Publishing Services"
-    - "Marketing Strategy Solutions"
+    - "Marketing Strategy"
     - "Editing & Copy Services"
     - "Book Ad’s Film Services"
     - "Author Website Solutions"
-    - "Advanced Amazon Distribution"
+    - "Amazon Distribution"
   button:
     enable : true
     label : "Explore More"
@@ -142,7 +142,7 @@ mission:
 ##################################### Promo video ####################################
 promo_video:
   enable : true
-  title : "We Are Always Committed To Helping You <br> Succeed!"
+  title : "We Are Always Committed To Helping You Succeed!"
   bg_image : "images/background/promo-video2.webp"
   video_URL : 
   video_title : "Lorem ipsum dolor <br> sit amet con."
@@ -170,7 +170,7 @@ testimonial:
 cta:
   enable : true
   bg_image : "images/background/cta.webp"
-  title : "Writer Publishing Solutions gives the smart solution for your publishing success."
+  title : "Gives the smart solution for your publishing success."
   button:
     enable : true
     label : "get a quote"

@@ -10,8 +10,6 @@ type : service
 weight : 1
 ---
 
-### Editing
-
 We understand that editing is more than a craft. Our editors’ primary function is to make your text as easy as possible to read and understand. We respect and work closely with authors like you…You as the author get the final say on every change.
 
 

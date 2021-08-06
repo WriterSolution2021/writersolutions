@@ -10,8 +10,6 @@ type : service
 weight : 3
 ---
 
-### Illustrations
-
 Your illustrations should have a purpose whether it provides essential or supplementary information, attract readers, or prompt an emotional response. Some texts require illustration. Others can be made more effective by adding illustration. Keep in mind that most people normally look at pictures first before the words in your book are read.
 
 Illustrations may be artwork or photographs.
