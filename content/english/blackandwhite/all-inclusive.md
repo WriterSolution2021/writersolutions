@@ -12,8 +12,6 @@ price: 9999
 
 ### All Inclusive
 
-#### $9,999
-
 1. Author Retains Copyright
 2. ISBN Assignment
 3. Book Cover Design

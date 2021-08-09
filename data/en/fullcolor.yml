@@ -3,7 +3,7 @@ pricing_table :
   # pricing table loop
   - title : Essential
     icon : ti-gift # themify icon pack : https://themify.me/themify-icons
-    value : $25
+    value : 
     unit : month
     link : '/fullcolor/essential'
     service_list: 
@@ -20,7 +20,7 @@ pricing_table :
   # pricing table loop
   - title : Fundamental
     icon : ti-key # themify icon pack : https://themify.me/themify-icons
-    value : $129
+    value : 
     unit : month
     link : '/fullcolor/fundamental'
     service_list : 
@@ -38,7 +38,7 @@ pricing_table :
   # pricing table loop
   - title : Advanced
     icon : ti-medall # themify icon pack : https://themify.me/themify-icons
-    value : $229
+    value : 
     unit : month
     link : '/fullcolor/advanced'
     service_list : 

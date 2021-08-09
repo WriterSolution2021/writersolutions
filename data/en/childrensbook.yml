@@ -3,7 +3,7 @@ pricing_table :
   # pricing table loop
   - title : Primary
     icon : ti-gift # themify icon pack : https://themify.me/themify-icons
-    value : $1,499
+    value : 
     unit : month
     link : '/childrensbook/primary'
     service_list: 
@@ -20,7 +20,7 @@ pricing_table :
   # pricing table loop
   - title : Advanced
     icon : ti-key # themify icon pack : https://themify.me/themify-icons
-    value : $4,999
+    value : 
     unit : month
     link : '/childrensbook/advanced'
     service_list : 
@@ -38,7 +38,7 @@ pricing_table :
   # pricing table loop
   - title : Mastery
     icon : ti-medall # themify icon pack : https://themify.me/themify-icons
-    value : $9,999
+    value : 
     unit : month
     link : '/childrensbook/mastery'
     service_list : 

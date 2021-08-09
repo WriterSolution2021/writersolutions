@@ -14,8 +14,6 @@ price: 1499
 
 This publishing package is bla bla bla bla 
 
-## $1,499
-
 This publishing package is bla bla bla bla:
 <br>
 

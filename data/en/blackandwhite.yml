@@ -3,7 +3,7 @@ pricing_table :
   # pricing table loop
   - title : Standard
     icon : ti-gift # themify icon pack : https://themify.me/themify-icons
-    value : $25
+    value : 
     unit : month
     link : '/blackandwhite/standard'
     service_list: 
@@ -19,7 +19,7 @@ pricing_table :
   # pricing table loop
   - title : Professional
     icon : ti-key # themify icon pack : https://themify.me/themify-icons
-    value : $129
+    value : 
     unit : month
     link : '/blackandwhite/professional'
     service_list : 
@@ -41,7 +41,7 @@ pricing_table :
   # pricing table loop
   - title : All-inclusive
     icon : ti-medall # themify icon pack : https://themify.me/themify-icons
-    value : $229
+    value : 
     unit : month
     link : '/blackandwhite/all-inclusive'
     service_list : 
@@ -66,7 +66,7 @@ pricing_table :
    # pricing table loop
   - title : Traditional
     icon : ti-medall # themify icon pack : https://themify.me/themify-icons
-    value : $599
+    value : 
     unit : month
     link : '/blackandwhite/traditional'
     service_list : 

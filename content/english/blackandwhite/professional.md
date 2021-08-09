@@ -12,8 +12,6 @@ price: 4999
 
 ### Professional
 
-#### $4999
-
 1. Author Retains Copyright
 2. ISBN Assignment
 3. Book Cover Design

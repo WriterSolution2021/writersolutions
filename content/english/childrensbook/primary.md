@@ -12,8 +12,6 @@ price: 1499
 
 ### Primary
 
-#### $1,499
-
 1. Author Retains Copyright
 2. ISBN Assignment
 3. Book Cover Design
